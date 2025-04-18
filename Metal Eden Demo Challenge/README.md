@@ -2,6 +2,8 @@
 
 ### **[LiveSplit](https://github.com/LiveSplit) empty splits files for each category available on [Speedrun.com](https://www.speedrun.com/escape_from_school).**
 
+Replace the two FIXMEs in the file with actual layout and Livesplit paths on your machine
+
 ### Splits:
 - Level 0 : Crash Course
 - Level 1 : Paradise Lost
